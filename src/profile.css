@@ -1,0 +1,51 @@
+
+.navbar {
+    background-color: #007BFF;
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+  }
+  
+  .navbar-toggler-icon {
+    color: #fff;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    color: #1900ff;
+  }
+  
+  .card {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .card img {
+    border-radius: 50%;
+  }
+  
+  .card-text {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .dropdown-menu {
+    background-color: #007BFF;
+    border: none;
+  }
+  
+  .dropdown-item {
+    color: #fff;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #ff9f00;
+    color: #000;
+  }
+  
